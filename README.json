@@ -478,7 +478,21 @@
             "last_commit": "2026-02-24T22:41:30Z",
             "owner": "sara8086",
             "repo": "PostgresBooks",
-            "stars": 116
+            "stars": 117
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dev Books",
+          "description": "A collection of development and programming books",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-04-15T09:07:31Z",
+            "owner": "devtoolsd",
+            "repo": "DevBooks",
+            "stars": 86
           }
         },
         {
@@ -493,20 +507,6 @@
             "owner": "mahseema",
             "repo": "aibooks",
             "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Dev Books",
-          "description": "A collection of development and programming books",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-04-15T09:07:31Z",
-            "owner": "devtoolsd",
-            "repo": "DevBooks",
-            "stars": 85
           }
         },
         {
@@ -528,7 +528,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-16T07:48:55.624Z",
+    "last_updated": "2026-08-17T08:03:58.695Z",
     "original_repository": "dariubs/GoBooks",
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
     "enhanced_repository": "enhansome/enhansome-GoBooks",
