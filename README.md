@@ -1,6 +1,6 @@
 # Awesome Go Books with stars
 
-[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) ⭐ 19,620 | 🐛 0 | 🌐 Go | 📅 2026-07-13 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,550 | 🐛 102 | 📅 2026-08-18
+[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) ⭐ 19,621 | 🐛 0 | 🌐 Go | 📅 2026-07-13 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,654 | 🐛 102 | 📅 2026-08-18
 
 GoBooks is a curated collection of the best Go books for developers at every level—from beginners to engineers working on concurrency, performance, and system design. One place to find the right learning resource.
 
@@ -69,7 +69,7 @@ A community favorite for intermediate-to-advanced developers, frequently recomme
 
 *Last published*: **2025**
 *Authors:* **Chris James**
-*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,822 | 🐛 8 | 🌐 Go | 📅 2026-08-18**
+*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,824 | 🐛 8 | 🌐 Go | 📅 2026-08-18**
 
 One of the most popular free Go resources with over 22,000 GitHub stars. Its test-driven approach to learning Go has made it a go-to recommendation across the community. Frequently cited alongside paid books as essential reading for anyone learning Go.
 
@@ -160,7 +160,7 @@ The highly popular sequel to *Let's Go!*, focusing on advanced API and web appli
 
 *Last published*: **2025**
 *Authors:* **Chris James**
-*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,822 | 🐛 8 | 🌐 Go | 📅 2026-08-18**
+*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,824 | 🐛 8 | 🌐 Go | 📅 2026-08-18**
 
 <a href="https://quii.gitbook.io/learn-go-with-tests/"><img src="gobooks/covers/learn-go-with-tests.png" width="120px"/></a>
 
@@ -1097,7 +1097,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 135,897 | 🐛 10,232 | 🌐 Go | 📅 2026-08-19
+### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 135,901 | 🐛 10,236 | 🌐 Go | 📅 2026-08-19
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -1123,7 +1123,7 @@ Another awesome book for learning Web Development in Golang.
 
 # Contributing
 
-Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md) ⭐ 19,620 | 🐛 0 | 🌐 Go | 📅 2026-07-13!
+Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md) ⭐ 19,621 | 🐛 0 | 🌐 Go | 📅 2026-07-13!
 
 # License
 
