@@ -53,10 +53,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-19T00:24:25Z",
+            "last_commit": "2026-08-20T02:32:22Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 135901
+            "stars": 135916
           },
           "title": "More Books on the Go Wiki"
         },
@@ -153,7 +153,7 @@
             "last_commit": "2026-02-10T18:11:35Z",
             "owner": "lara-west",
             "repo": "PythonBooks",
-            "stars": 53
+            "stars": 54
           }
         }
       ],
@@ -161,7 +161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:33.638Z",
+    "last_updated": "2026-08-20T08:00:27.096Z",
     "original_repository": "dariubs/GoBooks",
     "original_repository_id": 35093606,
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
