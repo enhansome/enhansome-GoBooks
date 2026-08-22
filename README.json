@@ -35,7 +35,7 @@
             "last_commit": "2025-09-30T13:36:55Z",
             "owner": "thewhitetulip",
             "repo": "web-dev-golang-anti-textbook",
-            "stars": 3247
+            "stars": 3248
           },
           "title": "Webapps in Go the anti textbook Free"
         }
@@ -53,10 +53,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-21T03:10:08Z",
+            "last_commit": "2026-08-22T01:56:30Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136039
+            "stars": 136029
           },
           "title": "More Books on the Go Wiki"
         },
@@ -161,7 +161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T08:01:14.257Z",
+    "last_updated": "2026-08-22T07:49:07.564Z",
     "original_repository": "dariubs/GoBooks",
     "original_repository_id": 35093606,
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
