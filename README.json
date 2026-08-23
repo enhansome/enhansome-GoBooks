@@ -53,10 +53,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-22T01:56:30Z",
+            "last_commit": "2026-08-23T02:48:50Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136029
+            "stars": 136182
           },
           "title": "More Books on the Go Wiki"
         },
@@ -161,7 +161,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T07:49:07.564Z",
+    "last_updated": "2026-08-23T07:51:01.959Z",
     "original_repository": "dariubs/GoBooks",
     "original_repository_id": 35093606,
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
