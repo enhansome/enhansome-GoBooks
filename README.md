@@ -1,6 +1,6 @@
 # Awesome Go Books with stars
 
-[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) ⭐ 19,634 | 🐛 0 | 🌐 Go | 📅 2026-07-13 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,398 | 🐛 106 | 📅 2026-08-21
+[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) ⭐ 19,633 | 🐛 0 | 🌐 Go | 📅 2026-07-13 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,506 | 🐛 106 | 📅 2026-08-21
 
 GoBooks is a curated collection of the best Go books for developers at every level—from beginners to engineers working on concurrency, performance, and system design. One place to find the right learning resource.
 
@@ -936,7 +936,7 @@ Let's Go Further helps you extend and expand your knowledge of Go — taking you
 
 ### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) ⭐ 3,248 | 🐛 9 | 🌐 Go | 📅 2025-09-30 *Free*
 
-<a href="https://github.com/thewhitetulip/web-dev-golang-anti-textbook"><img src="gobooks/covers/webapps-in-go-the-anti-textbook.jpg" width="120px"/></a>
+[<img src="gobooks/covers/webapps-in-go-the-anti-textbook.jpg" width="120px"/>](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) ⭐ 3,248 | 🐛 9 | 🌐 Go | 📅 2025-09-30
 
 *Last published*: **2021**
 *Authors:* \*\*\*\*
@@ -1097,7 +1097,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 136,201 | 🐛 10,123 | 🌐 Go | 📅 2026-08-23
+### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 136,202 | 🐛 10,129 | 🌐 Go | 📅 2026-08-24
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -1123,7 +1123,7 @@ Another awesome book for learning Web Development in Golang.
 
 # Contributing
 
-Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md) ⭐ 19,634 | 🐛 0 | 🌐 Go | 📅 2026-07-13!
+Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md) ⭐ 19,633 | 🐛 0 | 🌐 Go | 📅 2026-07-13!
 
 # License
 

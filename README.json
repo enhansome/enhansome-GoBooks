@@ -1,6 +1,78 @@
 {
   "items": [
     {
+      "description": "Here are the top recommended books for absolute beginners—those with little or no programming experience—who want to learn Go from the very start",
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Last published: 2025 Authors: Chris James Avaible For Free : Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123572362,
+                "language": "Go",
+                "last_commit": "2026-08-18T09:28:22Z",
+                "owner": "quii",
+                "repo": "learn-go-with-tests",
+                "stars": 23837
+              }
+            }
+          ],
+          "description": "Learn Go guided by tests. Write a test, learn a new Go language feature to make it pass, refactor and repeat. You'll get a grounding in test-driven development and importantly understand the principles behind it.",
+          "node_type": "group",
+          "title": "Learn Go With Tests"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Last published: 2022 Authors: Maor Zamski and Daniel Singer Avaible For Free : Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 67262088,
+                "language": "HTML",
+                "last_commit": "2024-10-02T02:51:41Z",
+                "owner": "pazams",
+                "repo": "go-for-javascript-developers",
+                "stars": 1240
+              }
+            }
+          ],
+          "description": "This book helps Javascripters become Gophers. Outlining the differences between these languages makes it easier to switch back and forth, and can help mitigate potential issues when doing so.",
+          "node_type": "group",
+          "title": "Go for Javascript Developers"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Last published: 2018 Authors: Miek Gieben Avaible For Free : Source Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32354400,
+                "language": "Go",
+                "last_commit": "2023-02-27T19:22:18Z",
+                "owner": "miekg",
+                "repo": "learninggo",
+                "stars": 554
+              }
+            }
+          ],
+          "description": "A online book to start learning Golang. It features numerous exercises (and answers).",
+          "node_type": "group",
+          "title": "Learning Go"
+        }
+      ],
+      "title": "Starter Books"
+    },
+    {
       "description": null,
       "items": [
         {
@@ -53,10 +125,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-23T02:48:50Z",
+            "last_commit": "2026-08-24T11:09:02Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136201
+            "stars": 136202
           },
           "title": "More Books on the Go Wiki"
         },
@@ -161,7 +233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T08:07:22.546Z",
+    "last_updated": "2026-08-24T13:51:29.815Z",
     "original_repository": "dariubs/GoBooks",
     "original_repository_id": 35093606,
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
