@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T09:28:22Z",
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23838
+                "stars": 23837
               }
             }
           ],
@@ -125,10 +125,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-25T00:53:42Z",
+            "last_commit": "2026-08-25T07:07:58Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136442
+            "stars": 136446
           },
           "title": "More Books on the Go Wiki"
         },
@@ -233,7 +233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:46:59.353Z",
+    "last_updated": "2026-08-25T08:02:54.995Z",
     "original_repository": "dariubs/GoBooks",
     "original_repository_id": 35093606,
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
