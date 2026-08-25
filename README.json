@@ -17,7 +17,7 @@
                 "last_commit": "2026-08-18T09:28:22Z",
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23837
+                "stars": 23838
               }
             }
           ],
@@ -125,10 +125,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-24T11:09:02Z",
+            "last_commit": "2026-08-25T00:53:42Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136202
+            "stars": 136442
           },
           "title": "More Books on the Go Wiki"
         },
@@ -180,7 +180,7 @@
             "last_commit": "2026-02-24T22:41:30Z",
             "owner": "sara8086",
             "repo": "PostgresBooks",
-            "stars": 119
+            "stars": 120
           }
         },
         {
@@ -195,7 +195,7 @@
             "last_commit": "2026-04-15T09:07:31Z",
             "owner": "devtoolsd",
             "repo": "DevBooks",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2025-08-03T10:45:41Z",
             "owner": "mahseema",
             "repo": "aibooks",
-            "stars": 88
+            "stars": 89
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-02-10T18:11:35Z",
             "owner": "lara-west",
             "repo": "PythonBooks",
-            "stars": 56
+            "stars": 57
           }
         }
       ],
@@ -233,7 +233,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T13:51:29.815Z",
+    "last_updated": "2026-08-25T05:46:59.353Z",
     "original_repository": "dariubs/GoBooks",
     "original_repository_id": 35093606,
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
