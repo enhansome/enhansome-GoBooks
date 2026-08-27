@@ -14,10 +14,10 @@
                 "archived": false,
                 "id": 123572362,
                 "language": "Go",
-                "last_commit": "2026-08-25T18:02:36Z",
+                "last_commit": "2026-08-26T12:41:47Z",
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23838
+                "stars": 23842
               }
             }
           ],
@@ -125,10 +125,10 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-26T02:35:23Z",
+            "last_commit": "2026-08-27T04:31:00Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136457
+            "stars": 136538
           },
           "title": "More Books on the Go Wiki"
         },
@@ -185,6 +185,21 @@
         },
         {
           "node_type": "item",
+          "title": "AI Books",
+          "description": "A curated collection of books and resources on artificial intelligence",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 685474177,
+            "language": null,
+            "last_commit": "2025-08-03T10:45:41Z",
+            "owner": "mahseema",
+            "repo": "aibooks",
+            "stars": 90
+          }
+        },
+        {
+          "node_type": "item",
           "title": "Dev Books",
           "description": "A collection of development and programming books",
           "children": [],
@@ -200,21 +215,6 @@
         },
         {
           "node_type": "item",
-          "title": "AI Books",
-          "description": "A curated collection of books and resources on artificial intelligence",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 685474177,
-            "language": null,
-            "last_commit": "2025-08-03T10:45:41Z",
-            "owner": "mahseema",
-            "repo": "aibooks",
-            "stars": 89
-          }
-        },
-        {
-          "node_type": "item",
           "title": "Python Books",
           "description": "A comprehensive list of Python books and tutorials",
           "children": [],
@@ -225,7 +225,7 @@
             "last_commit": "2026-02-10T18:11:35Z",
             "owner": "lara-west",
             "repo": "PythonBooks",
-            "stars": 57
+            "stars": 58
           }
         }
       ],
@@ -233,9 +233,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T08:03:48.721Z",
-    "original_repository": "dariubs/GoBooks",
-    "original_repository_id": 35093606,
+    "last_updated": "2026-08-27T11:40:18.253Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 35093606,
+      "language": "Go",
+      "last_commit": "2026-07-13T16:08:02Z",
+      "owner": "dariubs",
+      "repo": "GoBooks",
+      "stars": 19634
+    },
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
     "enhanced_repository": "enhansome/enhansome-GoBooks",
     "enhanced_repository_description": null,
