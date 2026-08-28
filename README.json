@@ -17,8 +17,9 @@
                 "last_commit": "2026-08-26T12:41:47Z",
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23842
-              }
+                "stars": 23843
+              },
+              "first_seen": "2026-08-28T19:28:48.102Z"
             }
           ],
           "description": "Learn Go guided by tests. Write a test, learn a new Go language feature to make it pass, refactor and repeat. You'll get a grounding in test-driven development and importantly understand the principles behind it.",
@@ -40,7 +41,8 @@
                 "owner": "pazams",
                 "repo": "go-for-javascript-developers",
                 "stars": 1240
-              }
+              },
+              "first_seen": "2026-08-28T19:28:48.102Z"
             }
           ],
           "description": "This book helps Javascripters become Gophers. Outlining the differences between these languages makes it easier to switch back and forth, and can help mitigate potential issues when doing so.",
@@ -62,7 +64,8 @@
                 "owner": "miekg",
                 "repo": "learninggo",
                 "stars": 554
-              }
+              },
+              "first_seen": "2026-08-28T19:28:48.102Z"
             }
           ],
           "description": "A online book to start learning Golang. It features numerous exercises (and answers).",
@@ -88,7 +91,8 @@
             "repo": "go-blockchain",
             "stars": 553
           },
-          "title": "Practical guide for building a blockchain from scratch in Go with gRPC Free"
+          "title": "Practical guide for building a blockchain from scratch in Go with gRPC Free",
+          "first_seen": "2026-08-28T19:28:48.102Z"
         }
       ],
       "title": "Advanced Books"
@@ -109,7 +113,8 @@
             "repo": "web-dev-golang-anti-textbook",
             "stars": 3248
           },
-          "title": "Webapps in Go the anti textbook Free"
+          "title": "Webapps in Go the anti textbook Free",
+          "first_seen": "2026-08-28T19:28:48.102Z"
         }
       ],
       "title": "Web Development"
@@ -125,12 +130,13 @@
             "archived": false,
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-27T17:55:28Z",
+            "last_commit": "2026-08-28T19:10:03Z",
             "owner": "golang",
             "repo": "go",
-            "stars": 136543
+            "stars": 136557
           },
-          "title": "More Books on the Go Wiki"
+          "title": "More Books on the Go Wiki",
+          "first_seen": "2026-08-28T19:28:48.102Z"
         },
         {
           "children": [],
@@ -145,7 +151,8 @@
             "repo": "go_exercises",
             "stars": 16
           },
-          "title": "Tuxerrante repo on go exercises"
+          "title": "Tuxerrante repo on go exercises",
+          "first_seen": "2026-08-28T19:28:48.102Z"
         }
       ],
       "title": "Resources"
@@ -166,7 +173,8 @@
             "owner": "minouou",
             "repo": "JSBooks",
             "stars": 157
-          }
+          },
+          "first_seen": "2026-08-28T19:28:48.102Z"
         },
         {
           "node_type": "item",
@@ -180,8 +188,9 @@
             "last_commit": "2026-02-24T22:41:30Z",
             "owner": "sara8086",
             "repo": "PostgresBooks",
-            "stars": 120
-          }
+            "stars": 121
+          },
+          "first_seen": "2026-08-28T19:28:48.102Z"
         },
         {
           "node_type": "item",
@@ -196,7 +205,8 @@
             "owner": "mahseema",
             "repo": "aibooks",
             "stars": 90
-          }
+          },
+          "first_seen": "2026-08-28T19:28:48.102Z"
         },
         {
           "node_type": "item",
@@ -211,7 +221,8 @@
             "owner": "devtoolsd",
             "repo": "DevBooks",
             "stars": 89
-          }
+          },
+          "first_seen": "2026-08-28T19:28:48.102Z"
         },
         {
           "node_type": "item",
@@ -226,14 +237,15 @@
             "owner": "lara-west",
             "repo": "PythonBooks",
             "stars": 58
-          }
+          },
+          "first_seen": "2026-08-28T19:28:48.102Z"
         }
       ],
       "title": "Related Lists"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T18:19:28.036Z",
+    "last_updated": "2026-08-28T19:28:48.102Z",
     "original_repository_info": {
       "archived": false,
       "id": 35093606,
@@ -241,7 +253,7 @@
       "last_commit": "2026-07-13T16:08:02Z",
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19636
+      "stars": 19641
     },
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
     "enhanced_repository": "enhansome/enhansome-GoBooks",

@@ -1,6 +1,6 @@
 # Awesome Go Books with stars
 
-[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) ⭐ 19,636 | 🐛 0 | 🌐 Go | 📅 2026-07-13 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,462 | 🐛 105 | 📅 2026-08-21
+[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) ⭐ 19,641 | 🐛 0 | 🌐 Go | 📅 2026-07-13 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,813 | 🐛 105 | 📅 2026-08-21
 
 GoBooks is a curated collection of the best Go books for developers at every level—from beginners to engineers working on concurrency, performance, and system design. One place to find the right learning resource.
 
@@ -69,7 +69,7 @@ A community favorite for intermediate-to-advanced developers, frequently recomme
 
 *Last published*: **2025**
 *Authors:* **Chris James**
-*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,842 | 🐛 2 | 🌐 Go | 📅 2026-08-26**
+*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,843 | 🐛 2 | 🌐 Go | 📅 2026-08-26**
 
 One of the most popular free Go resources with over 22,000 GitHub stars. Its test-driven approach to learning Go has made it a go-to recommendation across the community. Frequently cited alongside paid books as essential reading for anyone learning Go.
 
@@ -160,7 +160,7 @@ The highly popular sequel to *Let's Go!*, focusing on advanced API and web appli
 
 *Last published*: **2025**
 *Authors:* **Chris James**
-*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,842 | 🐛 2 | 🌐 Go | 📅 2026-08-26**
+*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,843 | 🐛 2 | 🌐 Go | 📅 2026-08-26**
 
 <a href="https://quii.gitbook.io/learn-go-with-tests/"><img src="gobooks/covers/learn-go-with-tests.png" width="120px"/></a>
 
@@ -1097,7 +1097,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 136,543 | 🐛 10,087 | 🌐 Go | 📅 2026-08-27
+### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 136,557 | 🐛 10,081 | 🌐 Go | 📅 2026-08-28
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -1116,14 +1116,14 @@ Another awesome book for learning Web Development in Golang.
 ## Related Lists
 
 * [JavaScript Books](https://github.com/minouou/jsbooks) ⭐ 157 | 🐛 0 | 📅 2026-04-19 – A collection of books and learning resources for JavaScript
-* [PostgreSQL Books](https://github.com/sara8086/PostgresBooks) ⭐ 120 | 🐛 1 | 📅 2026-02-24 – A curated list of books and guides for PostgreSQL
+* [PostgreSQL Books](https://github.com/sara8086/PostgresBooks) ⭐ 121 | 🐛 1 | 📅 2026-02-24 – A curated list of books and guides for PostgreSQL
 * [AI Books](https://github.com/mahseema/aibooks) ⭐ 90 | 🐛 0 | 📅 2025-08-03 – A curated collection of books and resources on artificial intelligence
 * [Dev Books](https://github.com/devtoolsd/DevBooks) ⭐ 89 | 🐛 0 | 📅 2026-04-15 – A collection of development and programming books
 * [Python Books](https://github.com/lara-west/PythonBooks) ⭐ 58 | 🐛 0 | 📅 2026-02-10 – A comprehensive list of Python books and tutorials
 
 # Contributing
 
-Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md) ⭐ 19,636 | 🐛 0 | 🌐 Go | 📅 2026-07-13!
+Your contributions are always welcome, just follow [the rules](https://github.com/dariubs/GoBooks/blob/master/CONTRIBUTING.md) ⭐ 19,641 | 🐛 0 | 🌐 Go | 📅 2026-07-13!
 
 # License
 
@@ -1131,4 +1131,4 @@ Your contributions are always welcome, just follow [the rules](https://github.co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
