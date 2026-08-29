@@ -12,12 +12,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learn Go with test-driven development",
+                "homepage": null,
                 "id": 123572362,
                 "language": "Go",
+                "license": "MIT",
                 "last_commit": "2026-08-26T12:41:47Z",
+                "open_issues": 2,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23843
+                "stars": 23842,
+                "topics": [
+                  "go",
+                  "golang",
+                  "tdd",
+                  "test-driven-development",
+                  "testing"
+                ]
               },
               "first_seen": "2026-08-28T19:28:48.102Z"
             }
@@ -35,12 +46,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A comparison between Go and Javascript",
+                "homepage": "http://www.pazams.com/Go-for-Javascript-Developers/",
                 "id": 67262088,
                 "language": "HTML",
+                "license": null,
                 "last_commit": "2024-10-02T02:51:41Z",
+                "open_issues": 2,
                 "owner": "pazams",
                 "repo": "go-for-javascript-developers",
-                "stars": 1240
+                "stars": 1240,
+                "topics": []
               },
               "first_seen": "2026-08-28T19:28:48.102Z"
             }
@@ -58,12 +74,23 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Learning Go Book in mmark",
+                "homepage": "https://miek.nl/go",
                 "id": 32354400,
                 "language": "Go",
+                "license": "NOASSERTION",
                 "last_commit": "2023-02-27T19:22:18Z",
+                "open_issues": 8,
                 "owner": "miekg",
                 "repo": "learninggo",
-                "stars": 554
+                "stars": 554,
+                "topics": [
+                  "book",
+                  "exercises",
+                  "free",
+                  "golang",
+                  "mmark"
+                ]
               },
               "first_seen": "2026-08-28T19:28:48.102Z"
             }
@@ -84,12 +111,28 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "A foundational and practical guide for effectively learning and progressively building a blockchain from scratch in Go with gRPC",
+            "homepage": null,
             "id": 850193402,
             "language": "Go",
+            "license": "NOASSERTION",
             "last_commit": "2025-08-17T14:09:53Z",
+            "open_issues": 0,
             "owner": "volodymyrprokopyuk",
             "repo": "go-blockchain",
-            "stars": 553
+            "stars": 553,
+            "topics": [
+              "blockchain",
+              "blockchain-from-scratch",
+              "blockchain-protocol",
+              "concurrent-programming",
+              "cryptography",
+              "golang",
+              "grpc-go",
+              "merkle-proof",
+              "merkle-tree",
+              "peer-to-peer-networking"
+            ]
           },
           "title": "Practical guide for building a blockchain from scratch in Go with gRPC Free",
           "first_seen": "2026-08-28T19:28:48.102Z"
@@ -106,12 +149,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "Learn how to write webapps without a framework in Go.",
+            "homepage": "https://leanpub.com/antitextbookGo/",
             "id": 48872603,
             "language": "Go",
+            "license": null,
             "last_commit": "2025-09-30T13:36:55Z",
+            "open_issues": 9,
             "owner": "thewhitetulip",
             "repo": "web-dev-golang-anti-textbook",
-            "stars": 3248
+            "stars": 3249,
+            "topics": [
+              "book",
+              "go",
+              "golang",
+              "golang-book"
+            ]
           },
           "title": "Webapps in Go the anti textbook Free",
           "first_seen": "2026-08-28T19:28:48.102Z"
@@ -128,12 +181,22 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "The Go programming language",
+            "homepage": "https://go.dev",
             "id": 23096959,
             "language": "Go",
-            "last_commit": "2026-08-28T19:10:03Z",
+            "license": "BSD-3-Clause",
+            "last_commit": "2026-08-28T21:42:41Z",
+            "open_issues": 10082,
             "owner": "golang",
             "repo": "go",
-            "stars": 136557
+            "stars": 136563,
+            "topics": [
+              "go",
+              "golang",
+              "language",
+              "programming-language"
+            ]
           },
           "title": "More Books on the Go Wiki",
           "first_seen": "2026-08-28T19:28:48.102Z"
@@ -144,12 +207,17 @@
           "node_type": "item",
           "repo_info": {
             "archived": false,
+            "description": "repo for mastering go",
+            "homepage": null,
             "id": 480839036,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-05-21T14:30:07Z",
+            "open_issues": 0,
             "owner": "tuxerrante",
             "repo": "go_exercises",
-            "stars": 16
+            "stars": 16,
+            "topics": []
           },
           "title": "Tuxerrante repo on go exercises",
           "first_seen": "2026-08-28T19:28:48.102Z"
@@ -167,12 +235,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Curated List of Best Javascript Books",
+            "homepage": null,
             "id": 1124073675,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-19T05:22:34Z",
+            "open_issues": 0,
             "owner": "minouou",
             "repo": "JSBooks",
-            "stars": 157
+            "stars": 157,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
         },
@@ -183,12 +256,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of excellent books to learn PostgreSQL — from beginner‑friendly introductions to advanced internals, administration, and performance tuning.",
+            "homepage": null,
             "id": 1142032068,
             "language": null,
+            "license": null,
             "last_commit": "2026-02-24T22:41:30Z",
+            "open_issues": 1,
             "owner": "sara8086",
             "repo": "PostgresBooks",
-            "stars": 121
+            "stars": 122,
+            "topics": [
+              "pgadmin",
+              "postgres-book",
+              "postgres-extension",
+              "postgres-tools",
+              "postgresbooks",
+              "postgresql",
+              "postgresql-book",
+              "postgresql-books",
+              "potgres",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
         },
@@ -199,12 +288,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated List of AI, ML and Deep Learning books",
+            "homepage": null,
             "id": 685474177,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-03T10:45:41Z",
+            "open_issues": 0,
             "owner": "mahseema",
             "repo": "aibooks",
-            "stars": 90
+            "stars": 90,
+            "topics": [
+              "ai",
+              "ai-agent",
+              "ai-agents",
+              "ai-book",
+              "ai-books",
+              "ai-engineering",
+              "ai-resources",
+              "ai-tools",
+              "ai-tutor",
+              "ai-tutorial",
+              "aibooks",
+              "awesome-ai-books",
+              "ml",
+              "ml-book",
+              "ml-books"
+            ]
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
         },
@@ -215,12 +325,36 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated, opinionated list of best-in-class books for modern software development, popular programming languages, and AI/ML.",
+            "homepage": null,
             "id": 1042666862,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-04-15T09:07:31Z",
+            "open_issues": 0,
             "owner": "devtoolsd",
             "repo": "DevBooks",
-            "stars": 89
+            "stars": 89,
+            "topics": [
+              "ai-books",
+              "books",
+              "csharp-book",
+              "devbook",
+              "devbooks",
+              "elixir-book",
+              "gobooks",
+              "java",
+              "java-books",
+              "js-books",
+              "kotlin-book",
+              "php-book",
+              "python",
+              "pythonbooks",
+              "ruby-book",
+              "rustbook",
+              "scala-book",
+              "swift-book"
+            ]
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
         },
@@ -231,12 +365,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Curated List of Best Python Books",
+            "homepage": null,
             "id": 1154680424,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-02-10T18:11:35Z",
+            "open_issues": 0,
             "owner": "lara-west",
             "repo": "PythonBooks",
-            "stars": 58
+            "stars": 58,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
         }
@@ -245,15 +384,38 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:28:48.102Z",
+    "last_updated": "2026-08-29T04:14:48.267Z",
     "original_repository_info": {
       "archived": false,
+      "description": "List of Golang books",
+      "homepage": null,
       "id": 35093606,
       "language": "Go",
+      "license": null,
       "last_commit": "2026-07-13T16:08:02Z",
+      "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19641
+      "stars": 19641,
+      "topics": [
+        "awesome",
+        "awesome-go",
+        "awesome-golang",
+        "awesome-list",
+        "awesome-lists",
+        "book",
+        "books",
+        "development",
+        "devops",
+        "go",
+        "go-books",
+        "gobooks",
+        "golang",
+        "golang-books",
+        "list",
+        "resources",
+        "roadmap"
+      ]
     },
     "original_repository_sha": "663df50585267768595a41f69c1c1d959c8a7650",
     "enhanced_repository": "enhansome/enhansome-GoBooks",
