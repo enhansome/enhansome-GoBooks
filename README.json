@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23855,
+                "stars": 23856,
                 "topics": [
                   "go",
                   "golang",
@@ -120,7 +120,7 @@
             "open_issues": 0,
             "owner": "volodymyrprokopyuk",
             "repo": "go-blockchain",
-            "stars": 553,
+            "stars": 555,
             "topics": [
               "blockchain",
               "blockchain-from-scratch",
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-03T07:29:54Z",
-            "open_issues": 10136,
+            "last_commit": "2026-09-03T18:41:01Z",
+            "open_issues": 10144,
             "owner": "golang",
             "repo": "go",
-            "stars": 137313,
+            "stars": 137502,
             "topics": [
               "go",
               "golang",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T12:08:54.325Z",
+    "last_updated": "2026-09-04T12:10:07.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
