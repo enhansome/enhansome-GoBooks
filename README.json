@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23863,
+                "stars": 23865,
                 "topics": [
                   "go",
                   "golang",
@@ -187,10 +187,10 @@
             "language": "Go",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-05T22:11:46Z",
-            "open_issues": 10121,
+            "open_issues": 10127,
             "owner": "golang",
             "repo": "go",
-            "stars": 137549,
+            "stars": 138017,
             "topics": [
               "go",
               "golang",
@@ -265,7 +265,7 @@
             "open_issues": 1,
             "owner": "sara8086",
             "repo": "PostgresBooks",
-            "stars": 125,
+            "stars": 124,
             "topics": [
               "pgadmin",
               "postgres-book",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T11:40:56.593Z",
+    "last_updated": "2026-09-07T13:33:10.564Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -393,10 +393,10 @@
       "language": "Go",
       "license": null,
       "last_commit": "2026-07-13T16:08:02Z",
-      "open_issues": 1,
+      "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19656,
+      "stars": 19658,
       "topics": [
         "awesome",
         "awesome-go",
