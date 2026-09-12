@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-10T23:01:21Z",
-            "open_issues": 10168,
+            "last_commit": "2026-09-12T03:29:33Z",
+            "open_issues": 10119,
             "owner": "golang",
             "repo": "go",
-            "stars": 138413,
+            "stars": 138431,
             "topics": [
               "go",
               "golang",
@@ -265,7 +265,7 @@
             "open_issues": 1,
             "owner": "sara8086",
             "repo": "PostgresBooks",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "pgadmin",
               "postgres-book",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T12:14:38.631Z",
+    "last_updated": "2026-09-12T11:38:50.258Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -396,7 +396,7 @@
       "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19663,
+      "stars": 19664,
       "topics": [
         "awesome",
         "awesome-go",
