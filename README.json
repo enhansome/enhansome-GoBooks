@@ -21,7 +21,7 @@
                 "open_issues": 2,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23875,
+                "stars": 23886,
                 "topics": [
                   "go",
                   "golang",
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-18T08:36:47Z",
-            "open_issues": 10154,
+            "last_commit": "2026-09-19T06:12:59Z",
+            "open_issues": 10155,
             "owner": "golang",
             "repo": "go",
-            "stars": 138868,
+            "stars": 138884,
             "topics": [
               "go",
               "golang",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-18T12:16:23.301Z",
+    "last_updated": "2026-09-19T11:57:39.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
