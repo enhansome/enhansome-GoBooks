@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23889,
+                "stars": 23891,
                 "topics": [
                   "go",
                   "golang",
@@ -158,7 +158,7 @@
             "open_issues": 9,
             "owner": "thewhitetulip",
             "repo": "web-dev-golang-anti-textbook",
-            "stars": 3250,
+            "stars": 3251,
             "topics": [
               "book",
               "go",
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-20T01:19:12Z",
-            "open_issues": 10162,
+            "last_commit": "2026-09-22T09:17:43Z",
+            "open_issues": 10177,
             "owner": "golang",
             "repo": "go",
-            "stars": 138921,
+            "stars": 138936,
             "topics": [
               "go",
               "golang",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T14:18:51.112Z",
+    "last_updated": "2026-09-22T12:40:43.769Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
