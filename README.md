@@ -1,6 +1,6 @@
 # Awesome Go Books with stars
 
-[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) ⭐ 19,697 | 🐛 0 | 🌐 Go | 📅 2026-07-13 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,264 | 🐛 106 | 📅 2026-09-02
+[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) ⭐ 19,697 | 🐛 0 | 🌐 Go | 📅 2026-07-13 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 512,703 | 🐛 106 | 📅 2026-09-02
 
 GoBooks is a curated collection of the best Go books for developers at every level—from beginners to engineers working on concurrency, performance, and system design. One place to find the right learning resource.
 
@@ -69,7 +69,7 @@ A community favorite for intermediate-to-advanced developers, frequently recomme
 
 *Last published*: **2025**
 *Authors:* **Chris James**
-*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,899 | 🐛 5 | 🌐 Go | 📅 2026-09-25**
+*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,902 | 🐛 5 | 🌐 Go | 📅 2026-09-30**
 
 One of the most popular free Go resources with over 22,000 GitHub stars. Its test-driven approach to learning Go has made it a go-to recommendation across the community. Frequently cited alongside paid books as essential reading for anyone learning Go.
 
@@ -160,7 +160,7 @@ The highly popular sequel to *Let's Go!*, focusing on advanced API and web appli
 
 *Last published*: **2025**
 *Authors:* **Chris James**
-*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,899 | 🐛 5 | 🌐 Go | 📅 2026-09-25**
+*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,902 | 🐛 5 | 🌐 Go | 📅 2026-09-30**
 
 <a href="https://quii.gitbook.io/learn-go-with-tests/"><img src="gobooks/covers/learn-go-with-tests.png" width="120px"/></a>
 
@@ -310,7 +310,7 @@ For the last decade, we have heard stories about Monolith to Microservice transi
 
 *Last published*: **2022**
 *Authors:* **Maor Zamski** and **Daniel Singer**
-*Avaible For Free* : **[Source Code](https://github.com/pazams/go-for-javascript-developers) ⭐ 1,236 | 🐛 2 | 🌐 HTML | 📅 2024-10-02**
+*Avaible For Free* : **[Source Code](https://github.com/pazams/go-for-javascript-developers) ⭐ 1,237 | 🐛 2 | 🌐 HTML | 📅 2024-10-02**
 
 <a href="https://www.pazams.com/Go-for-Javascript-Developers/"><img src="gobooks/covers/go-for-javascript-developers.png" width="120px"/></a>
 
@@ -867,7 +867,7 @@ Offensive topics include brute force, port scanning, packet injection, web scrap
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
-The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,462 | 🐛 30 | 🌐 Go | 📅 2026-08-27.
+The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,464 | 🐛 30 | 🌐 Go | 📅 2026-08-27.
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ***
@@ -1097,7 +1097,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 139,080 | 🐛 10,264 | 🌐 Go | 📅 2026-09-29
+### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 139,089 | 🐛 10,251 | 🌐 Go | 📅 2026-09-30
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -1119,7 +1119,7 @@ Another awesome book for learning Web Development in Golang.
 * [PostgreSQL Books](https://github.com/sara8086/PostgresBooks) ⭐ 132 | 🐛 1 | 📅 2026-02-24 – A curated list of books and guides for PostgreSQL
 * [Dev Books](https://github.com/devtoolsd/DevBooks) ⭐ 96 | 🐛 1 | 📅 2026-04-15 – A collection of development and programming books
 * [AI Books](https://github.com/mahseema/aibooks) ⭐ 91 | 🐛 0 | 📅 2025-08-03 – A curated collection of books and resources on artificial intelligence
-* [Python Books](https://github.com/lara-west/PythonBooks) ⭐ 59 | 🐛 0 | 📅 2026-02-10 – A comprehensive list of Python books and tutorials
+* [Python Books](https://github.com/lara-west/PythonBooks) ⭐ 60 | 🐛 0 | 📅 2026-02-10 – A comprehensive list of Python books and tutorials
 
 # Contributing
 
@@ -1131,4 +1131,4 @@ Your contributions are always welcome, just follow [the rules](https://github.co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-30._

@@ -17,11 +17,11 @@
                 "id": 123572362,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-25T17:23:48Z",
+                "last_commit": "2026-09-30T07:09:32Z",
                 "open_issues": 5,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23899,
+                "stars": 23902,
                 "topics": [
                   "go",
                   "golang",
@@ -55,7 +55,7 @@
                 "open_issues": 2,
                 "owner": "pazams",
                 "repo": "go-for-javascript-developers",
-                "stars": 1236,
+                "stars": 1237,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:28:48.102Z"
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-29T13:03:48Z",
-            "open_issues": 10264,
+            "last_commit": "2026-09-30T02:55:48Z",
+            "open_issues": 10251,
             "owner": "golang",
             "repo": "go",
-            "stars": 139080,
+            "stars": 139089,
             "topics": [
               "go",
               "golang",
@@ -374,7 +374,7 @@
             "open_issues": 0,
             "owner": "lara-west",
             "repo": "PythonBooks",
-            "stars": 59,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T14:08:22.169Z",
+    "last_updated": "2026-09-30T13:53:01.163Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
