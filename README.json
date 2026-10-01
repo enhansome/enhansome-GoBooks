@@ -17,11 +17,11 @@
                 "id": 123572362,
                 "language": "Go",
                 "license": "MIT",
-                "last_commit": "2026-09-30T07:09:32Z",
+                "last_commit": "2026-09-30T14:07:24Z",
                 "open_issues": 5,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23902,
+                "stars": 23901,
                 "topics": [
                   "go",
                   "golang",
@@ -55,7 +55,7 @@
                 "open_issues": 2,
                 "owner": "pazams",
                 "repo": "go-for-javascript-developers",
-                "stars": 1237,
+                "stars": 1236,
                 "topics": []
               },
               "first_seen": "2026-08-28T19:28:48.102Z"
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-30T02:55:48Z",
-            "open_issues": 10251,
+            "last_commit": "2026-10-01T13:43:02Z",
+            "open_issues": 10263,
             "owner": "golang",
             "repo": "go",
-            "stars": 139089,
+            "stars": 139112,
             "topics": [
               "go",
               "golang",
@@ -244,7 +244,7 @@
             "open_issues": 1,
             "owner": "minouou",
             "repo": "JSBooks",
-            "stars": 160,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T13:53:01.163Z",
+    "last_updated": "2026-10-01T14:34:13.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -396,7 +396,7 @@
       "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19697,
+      "stars": 19699,
       "topics": [
         "awesome",
         "awesome-go",
