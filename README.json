@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Last published: 2025 Authors: Chris James Avaible For Free : Source Code",
-              "description": null,
+              "description": "quii/learn-go-with-tests",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23903,
+                "stars": 23902,
                 "topics": [
                   "go",
                   "golang",
@@ -42,7 +42,7 @@
             {
               "node_type": "item",
               "title": "Last published: 2022 Authors: Maor Zamski and Daniel Singer Avaible For Free : Source Code",
-              "description": null,
+              "description": "pazams/go-for-javascript-developers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -70,7 +70,7 @@
             {
               "node_type": "item",
               "title": "Last published: 2018 Authors: Miek Gieben Avaible For Free : Source Code",
-              "description": null,
+              "description": "miekg/learninggo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-02T00:26:53Z",
-            "open_issues": 10282,
+            "last_commit": "2026-10-02T21:55:53Z",
+            "open_issues": 10283,
             "owner": "golang",
             "repo": "go",
-            "stars": 139121,
+            "stars": 139132,
             "topics": [
               "go",
               "golang",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T13:56:44.290Z",
+    "last_updated": "2026-10-03T04:32:32.072Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -396,7 +396,7 @@
       "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19701,
+      "stars": 19702,
       "topics": [
         "awesome",
         "awesome-go",
