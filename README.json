@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-07T02:26:29Z",
-            "open_issues": 10318,
+            "last_commit": "2026-10-08T14:38:15Z",
+            "open_issues": 10315,
             "owner": "golang",
             "repo": "go",
-            "stars": 139309,
+            "stars": 139325,
             "topics": [
               "go",
               "golang",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T14:35:25.989Z",
+    "last_updated": "2026-10-08T14:39:55.297Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -396,7 +396,7 @@
       "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19704,
+      "stars": 19710,
       "topics": [
         "awesome",
         "awesome-go",
