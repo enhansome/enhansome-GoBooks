@@ -21,7 +21,7 @@
                 "open_issues": 5,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23904,
+                "stars": 23903,
                 "topics": [
                   "go",
                   "golang",
@@ -83,7 +83,7 @@
                 "open_issues": 8,
                 "owner": "miekg",
                 "repo": "learninggo",
-                "stars": 554,
+                "stars": 553,
                 "topics": [
                   "book",
                   "exercises",
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T13:48:35Z",
-            "open_issues": 10286,
+            "last_commit": "2026-10-10T04:22:54Z",
+            "open_issues": 10295,
             "owner": "golang",
             "repo": "go",
-            "stars": 139161,
+            "stars": 139171,
             "topics": [
               "go",
               "golang",
@@ -244,7 +244,7 @@
             "open_issues": 1,
             "owner": "minouou",
             "repo": "JSBooks",
-            "stars": 160,
+            "stars": 161,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
@@ -265,7 +265,7 @@
             "open_issues": 1,
             "owner": "sara8086",
             "repo": "PostgresBooks",
-            "stars": 132,
+            "stars": 135,
             "topics": [
               "pgadmin",
               "postgres-book",
@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "devtoolsd",
             "repo": "DevBooks",
-            "stars": 98,
+            "stars": 99,
             "topics": [
               "ai-books",
               "books",
@@ -384,7 +384,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T14:25:42.000Z",
+    "last_updated": "2026-10-10T13:50:01.748Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -396,7 +396,7 @@
       "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19711,
+      "stars": 19712,
       "topics": [
         "awesome",
         "awesome-go",
