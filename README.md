@@ -1,6 +1,6 @@
 # Awesome Go Books with stars
 
-[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 518,908 | 🐛 105 | 📅 2026-09-02
+[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,279 | 🐛 105 | 📅 2026-09-02
 
 GoBooks is a curated collection of the best Go books for developers at every level—from beginners to engineers working on concurrency, performance, and system design. One place to find the right learning resource.
 
@@ -69,7 +69,7 @@ A community favorite for intermediate-to-advanced developers, frequently recomme
 
 *Last published*: **2025**
 *Authors:* **Chris James**
-*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,907 | 🐛 5 | 🌐 Go | 📅 2026-09-30**
+*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,906 | 🐛 5 | 🌐 Go | 📅 2026-09-30**
 
 One of the most popular free Go resources with over 22,000 GitHub stars. Its test-driven approach to learning Go has made it a go-to recommendation across the community. Frequently cited alongside paid books as essential reading for anyone learning Go.
 
@@ -160,7 +160,7 @@ The highly popular sequel to *Let's Go!*, focusing on advanced API and web appli
 
 *Last published*: **2025**
 *Authors:* **Chris James**
-*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,907 | 🐛 5 | 🌐 Go | 📅 2026-09-30**
+*Avaible For Free* : **[Source Code](https://github.com/quii/learn-go-with-tests) ⭐ 23,906 | 🐛 5 | 🌐 Go | 📅 2026-09-30**
 
 <a href="https://quii.gitbook.io/learn-go-with-tests/"><img src="gobooks/covers/learn-go-with-tests.png" width="120px"/></a>
 
@@ -934,9 +934,9 @@ Let's Go Further helps you extend and expand your knowledge of Go — taking you
 
 ***
 
-### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) ⭐ 3,250 | 🐛 9 | 🌐 Go | 📅 2025-09-30 *Free*
+### [Webapps in Go the anti textbook](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) ⭐ 3,251 | 🐛 9 | 🌐 Go | 📅 2025-09-30 *Free*
 
-[<img src="gobooks/covers/webapps-in-go-the-anti-textbook.jpg" width="120px"/>](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) ⭐ 3,250 | 🐛 9 | 🌐 Go | 📅 2025-09-30
+[<img src="gobooks/covers/webapps-in-go-the-anti-textbook.jpg" width="120px"/>](https://github.com/thewhitetulip/web-dev-golang-anti-textbook) ⭐ 3,251 | 🐛 9 | 🌐 Go | 📅 2025-09-30
 
 *Last published*: **2021**
 *Authors:* \*\*\*\*
@@ -1097,7 +1097,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 139,380 | 🐛 10,347 | 🌐 Go | 📅 2026-10-14
+### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 139,193 | 🐛 10,346 | 🌐 Go | 📅 2026-10-15
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -1118,7 +1118,7 @@ Another awesome book for learning Web Development in Golang.
 * [TypeScript Books](https://github.com/tscollege/typescript-books) ⭐ 189 | 🐛 0 | 📅 2026-10-04 - A curated, hand-picked list of the best TypeScript books for learning TypeScript.
 * [JavaScript Books](https://github.com/minouou/jsbooks) ⭐ 162 | 🐛 1 | 📅 2026-04-19 – A collection of books and learning resources for JavaScript
 * [PostgreSQL Books](https://github.com/sara8086/PostgresBooks) ⭐ 135 | 🐛 1 | 📅 2026-02-24 – A curated list of books and guides for PostgreSQL
-* [Dev Books](https://github.com/devtoolsd/DevBooks) ⭐ 99 | 🐛 0 | 📅 2026-10-14 – A collection of development and programming books
+* [Dev Books](https://github.com/devtoolsd/DevBooks) ⭐ 100 | 🐛 0 | 📅 2026-10-14 – A collection of development and programming books
 * [AI Books](https://github.com/mahseema/aibooks) ⭐ 91 | 🐛 0 | 📅 2025-08-03 – A curated collection of books and resources on artificial intelligence
 * [Python Books](https://github.com/lara-west/PythonBooks) ⭐ 60 | 🐛 0 | 📅 2026-02-10 – A comprehensive list of Python books and tutorials
 
@@ -1132,4 +1132,4 @@ Your contributions are always welcome, just follow [the rules](https://github.co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
