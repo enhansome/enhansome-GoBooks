@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23912,
+                "stars": 23913,
                 "topics": [
                   "go",
                   "golang",
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-19T09:48:38Z",
-            "open_issues": 10368,
+            "last_commit": "2026-10-20T02:41:08Z",
+            "open_issues": 10375,
             "owner": "golang",
             "repo": "go",
-            "stars": 139398,
+            "stars": 139413,
             "topics": [
               "go",
               "golang",
@@ -282,7 +282,7 @@
             "open_issues": 1,
             "owner": "minouou",
             "repo": "JSBooks",
-            "stars": 161,
+            "stars": 162,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
@@ -303,7 +303,7 @@
             "open_issues": 1,
             "owner": "sara8086",
             "repo": "PostgresBooks",
-            "stars": 135,
+            "stars": 136,
             "topics": [
               "pgadmin",
               "postgres-book",
@@ -335,7 +335,7 @@
             "open_issues": 0,
             "owner": "devtoolsd",
             "repo": "DevBooks",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "ai-books",
               "books",
@@ -412,7 +412,7 @@
             "open_issues": 0,
             "owner": "lara-west",
             "repo": "PythonBooks",
-            "stars": 60,
+            "stars": 61,
             "topics": []
           },
           "first_seen": "2026-08-28T19:28:48.102Z"
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T14:45:08.748Z",
+    "last_updated": "2026-10-20T12:47:26.726Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -434,7 +434,7 @@
       "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19730,
+      "stars": 19731,
       "topics": [
         "awesome",
         "awesome-go",
