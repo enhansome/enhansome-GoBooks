@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-26T09:41:15Z",
-            "open_issues": 10463,
+            "last_commit": "2026-10-27T12:56:50Z",
+            "open_issues": 10509,
             "owner": "golang",
             "repo": "go",
-            "stars": 139611,
+            "stars": 139633,
             "topics": [
               "go",
               "golang",
@@ -375,7 +375,7 @@
             "open_issues": 0,
             "owner": "mahseema",
             "repo": "aibooks",
-            "stars": 94,
+            "stars": 95,
             "topics": [
               "ai",
               "ai-agent",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T14:23:01.359Z",
+    "last_updated": "2026-10-27T13:21:08.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -434,7 +434,7 @@
       "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19749,
+      "stars": 19753,
       "topics": [
         "awesome",
         "awesome-go",
