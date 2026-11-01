@@ -1,6 +1,6 @@
 # Awesome Go Books with stars
 
-[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 527,788 | 🐛 105 | 📅 2026-09-02
+[![Validate README](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml/badge.svg)](https://github.com/dariubs/GoBooks/actions/workflows/validate.yml) [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,304 | 🐛 105 | 📅 2026-09-02
 
 GoBooks is a curated collection of the best Go books for developers at every level—from beginners to engineers working on concurrency, performance, and system design. One place to find the right learning resource.
 
@@ -867,7 +867,7 @@ Offensive topics include brute force, port scanning, packet injection, web scrap
 *Go with the Domain* is a book on building Go applications that solve complex problems in an idiomatic way.
 It features techniques like Domain-Driven Design, Clean Architecture, CQRS (Command Query Responsibility Segregation), and other patterns.
 
-The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,486 | 🐛 29 | 🌐 Go | 📅 2026-08-27.
+The book is based on a [real open source project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example) ⭐ 6,488 | 🐛 29 | 🌐 Go | 📅 2026-08-27.
 Chapters go through refactoring of the project to show common anti-patterns and how to avoid them.
 
 ***
@@ -1097,7 +1097,7 @@ Another awesome book for learning Web Development in Golang.
 
 ### [Go Fundamentals Video Training](https://shop.oreilly.com/category/learning-path/go-fundamentals.do)
 
-### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 139,531 | 🐛 9,847 | 🌐 Go | 📅 2026-10-31
+### [More Books on the Go Wiki](https://github.com/golang/go/wiki/Books) ⭐ 139,719 | 🐛 9,853 | 🌐 Go | 📅 2026-11-01
 
 ### [TutorialEdge.net Course](https://tutorialedge.net/course/golang/)
 
@@ -1117,7 +1117,7 @@ Another awesome book for learning Web Development in Golang.
 
 * [TypeScript Books](https://github.com/tscollege/typescript-books) ⭐ 196 | 🐛 0 | 📅 2026-10-04 - A curated, hand-picked list of the best TypeScript books for learning TypeScript.
 * [JavaScript Books](https://github.com/minouou/jsbooks) ⭐ 163 | 🐛 1 | 📅 2026-04-19 – A collection of books and learning resources for JavaScript
-* [PostgreSQL Books](https://github.com/sara8086/PostgresBooks) ⭐ 139 | 🐛 1 | 📅 2026-02-24 – A curated list of books and guides for PostgreSQL
+* [PostgreSQL Books](https://github.com/sara8086/PostgresBooks) ⭐ 138 | 🐛 1 | 📅 2026-02-24 – A curated list of books and guides for PostgreSQL
 * [Dev Books](https://github.com/devtoolsd/DevBooks) ⭐ 103 | 🐛 0 | 📅 2026-10-14 – A collection of development and programming books
 * [AI Books](https://github.com/mahseema/aibooks) ⭐ 95 | 🐛 0 | 📅 2025-08-03 – A curated collection of books and resources on artificial intelligence
 * [Python Books](https://github.com/lara-west/PythonBooks) ⭐ 62 | 🐛 0 | 📅 2026-02-10 – A comprehensive list of Python books and tutorials
@@ -1132,4 +1132,4 @@ Your contributions are always welcome, just follow [the rules](https://github.co
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
