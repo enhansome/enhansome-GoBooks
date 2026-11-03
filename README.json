@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23937,
+                "stars": 23940,
                 "topics": [
                   "go",
                   "golang",
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-01T22:20:25Z",
-            "open_issues": 9875,
+            "last_commit": "2026-11-03T13:38:07Z",
+            "open_issues": 9907,
             "owner": "golang",
             "repo": "go",
-            "stars": 139744,
+            "stars": 139547,
             "topics": [
               "go",
               "golang",
@@ -332,10 +332,10 @@
             "language": null,
             "license": "CC0-1.0",
             "last_commit": "2026-10-14T07:40:03Z",
-            "open_issues": 0,
+            "open_issues": 1,
             "owner": "devtoolsd",
             "repo": "DevBooks",
-            "stars": 103,
+            "stars": 104,
             "topics": [
               "ai-books",
               "books",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T17:12:40.107Z",
+    "last_updated": "2026-11-03T15:18:35.887Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -434,7 +434,7 @@
       "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19769,
+      "stars": 19770,
       "topics": [
         "awesome",
         "awesome-go",
