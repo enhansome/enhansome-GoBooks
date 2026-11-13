@@ -21,7 +21,7 @@
                 "open_issues": 6,
                 "owner": "quii",
                 "repo": "learn-go-with-tests",
-                "stars": 23959,
+                "stars": 23961,
                 "topics": [
                   "go",
                   "golang",
@@ -186,11 +186,11 @@
             "id": 23096959,
             "language": "Go",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-11-12T14:15:55Z",
-            "open_issues": 9909,
+            "last_commit": "2026-11-13T05:06:18Z",
+            "open_issues": 9888,
             "owner": "golang",
             "repo": "go",
-            "stars": 139868,
+            "stars": 139886,
             "topics": [
               "go",
               "golang",
@@ -216,7 +216,7 @@
             "open_issues": 0,
             "owner": "tuxerrante",
             "repo": "go_exercises",
-            "stars": 16,
+            "stars": 17,
             "topics": []
           },
           "title": "Tuxerrante repo on go exercises",
@@ -422,7 +422,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T16:02:04.429Z",
+    "last_updated": "2026-11-13T15:30:04.347Z",
     "original_repository_info": {
       "archived": false,
       "description": "List of Golang books",
@@ -434,7 +434,7 @@
       "open_issues": 0,
       "owner": "dariubs",
       "repo": "GoBooks",
-      "stars": 19786,
+      "stars": 19788,
       "topics": [
         "awesome",
         "awesome-go",
